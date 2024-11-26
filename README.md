@@ -6,7 +6,7 @@ I'm Chidera Odo, a Frontend Developer
 ## **Languages & Tools**
 
 ### Here are the tools and technologies I work with:
-<div style="display:flex; align-items:center; gap:5px;">
+<div style="display:flex; align-items:center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
