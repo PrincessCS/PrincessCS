@@ -2,7 +2,8 @@
 I'm Chidera Odo, a Frontend Developer
 
 
-##**Languages & Tools**
+## **Languages & Tools**
+
 Here are the tools and technologies I work with:
 <div style="display:flex;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
@@ -15,7 +16,7 @@ Here are the tools and technologies I work with:
 
 
 
-##**Here are some ideas to get you started:**
+## **Here are some ideas to get you started:**
 
 - 🔭 I’m currently working on React and Tailwind
 - 🌱 I’m currently learning Next.js
