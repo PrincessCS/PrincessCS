@@ -1,7 +1,8 @@
 ## Hi there 👋
 I'm Chidera Odo, a Frontend Developer
 
-Languages & Tools
+
+<u>Languages & Tools</u>
 Here are the tools and technologies I work with:
 <div style="display:flex;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
