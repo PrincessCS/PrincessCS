@@ -22,7 +22,7 @@ I'm Chidera Odo, a Frontend Developer
 
 ### **Here are some ideas to get you started:**
 
-- 🔭 I’m currently working on React and Tailwind
+- 🔭 I’m currently working with React and Tailwind
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on Web Developers
 - 📫 How to reach me: <princeschidera@gmail.com>
