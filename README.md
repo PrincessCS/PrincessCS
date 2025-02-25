@@ -3,6 +3,16 @@ I'm Chidera Odo, a Frontend Developer
 
 
 
+### **Here are some ideas to get you started:**
+
+- 🔭 I’m currently working with React and Tailwind
+- 🌱 I’m currently learning Next.js
+- 👯 I’m looking to collaborate with Web Developers
+- 📫 How to reach me: <princeschidera@gmail.com>
+- 😄 Pronouns: She/Her
+
+
+
 ## **Languages & Tools**
 
 ### Here are the tools and technologies I work with:
@@ -28,12 +38,5 @@ I'm Chidera Odo, a Frontend Developer
 
 
 
-### **Here are some ideas to get you started:**
-
-- 🔭 I’m currently working with React and Tailwind
-- 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on Web Developers
-- 📫 How to reach me: <princeschidera@gmail.com>
-- 😄 Pronouns: She/Her
   
 
