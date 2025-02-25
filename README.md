@@ -28,8 +28,6 @@ I'm Chidera Odo, a Frontend Developer
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrincessCS&show_icons=true&theme=radical)
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrincessCS&theme=radical)
 
 ## 🚀 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrincessCS&layout=compact&theme=radical)
