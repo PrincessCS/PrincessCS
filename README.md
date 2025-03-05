@@ -5,8 +5,8 @@ I'm Chidera Odo, a Frontend Developer
 
 ### **Here are some ideas to get you started:**
 
-- 🔭 I’m currently working with React and Tailwind
-- 🌱 I’m currently learning Next.js
+- 🔭 I’m currently working with Next.js and Tailwind
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate with Web Developers
 - 📫 How to reach me: <princeschidera@gmail.com>
 - 😄 Pronouns: She/Her
